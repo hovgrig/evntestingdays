@@ -2,6 +2,8 @@
 
 ## Automated Microservice Testing
 
+![alt text](/image/ytd2019.png)
+
 Microservices architecture is commonly widespread nowadays. Many organizations are making the move or already adopted cloud as a primary home for their enterprise software. As we approached cloud adoption and architecture transformation at Questrade, the need for flexible, cloud native and easy to use microservices testing framework emerged.  
 We have chosen the path to build it from scratch to support the growing number of microservices we have on production. The end result was a standalone automation product, generic enough to cover all the different types of services and APIs we created over time.  
 The framework provides a set of core APIs for integrations, built-in alerting and reporting mechanisms, web frontend app for management and made service automation a blissful task for us.  
