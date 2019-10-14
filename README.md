@@ -12,12 +12,14 @@ The framework is built using Node.js as a backing technology. It supports both R
 
 ### Useful links
 
-[Full presentation](https://docs.google.com/presentation/d/1rfYhcnAY7Epo7RjCbzxPfh0FI39Na7fsLGLa1O7yAc8/)  
+<a href="https://www.youtube.com/watch?v=2KpZxwh-kv4" target="_blank">Video recording of the talk</a>
 
-[Yerevan Testing Days website](https://evntestingdays.com)  
+<a href="https://docs.google.com/presentation/d/1rfYhcnAY7Epo7RjCbzxPfh0FI39Na7fsLGLa1O7yAc8/" target="_blank">Presentation slides</a>
 
-[Speaker details](https://evntestingdays.com/hovhannes-grigoryan.html),
-[Twitter](https://twitter.com/hovgrig),
-[LinkedIn](https://www.linkedin.com/in/hovgrig)
+<a href="https://evntestingdays.com" target="_blank">Yerevan Testing Days website</a>
 
-[We are hiring @Questrade!](https://www.questrade.com/careers)
+<a href="https://evntestingdays.com/hovhannes-grigoryan.html" target="_blank">Speaker details</a>  
+<a href="https://twitter.com/hovgrig" target="_blank">Twitter</a>  
+<a href="https://www.linkedin.com/in/hovgrig" target="_blank">LinkedIn</a>
+
+<a href="https://www.questrade.com/careers" target="_blank">We are hiring @Questrade!</a>
